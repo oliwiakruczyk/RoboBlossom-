@@ -15,7 +15,9 @@ https://youtu.be/UuZBZOrPWwI
 Get an inside look at RoboBlossom by browsing the following images:
 
 <p align="center">
- ![kwiat_zlozenie_2024-Jan-09_10-05-15PM-000_CustomizedView1105659777_jpg](https://github.com/oliwiakruczyk/RoboBlossom-/assets/150608343/752ad9f8-156b-4d20-bf4e-5fc4425177b8)
+  
+![kwiat_zlozenie_2024-Jan-09_10-05-15PM-000_CustomizedView1105659777_jpg](https://github.com/oliwiakruczyk/RoboBlossom-/assets/150608343/eb4a8542-a5d7-4657-93e2-b8aeeadd6f85)
+
 
  ![IMG_0203](https://github.com/oliwiakruczyk/RoboBlossom-/assets/150608343/10195e2a-9cf0-4b3c-9c88-0c13a1cade25)
 
